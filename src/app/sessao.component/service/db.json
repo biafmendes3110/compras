@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img":"../../assets/agua.webp",
+            "nome":"agua",
+            "valor":30,
+            "descricao": "agua Nestle",
+            "id":1
+        }
+    ]
+}
